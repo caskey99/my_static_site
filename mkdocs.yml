@@ -1,0 +1,4 @@
+site_name: "Мой Кастомный Сайт"
+theme:
+  name: null
+  custom_dir: my_theme
